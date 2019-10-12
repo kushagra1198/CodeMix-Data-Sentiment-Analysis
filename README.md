@@ -2,7 +2,7 @@
 In this project, I implement a sentimental analysis for Hindi-English(code-mix) data. The data is collected from public Facebook pages popular in India. The dataset is created by IIITH it contains comments from Facebook users on the pages/posts of popular Indian celebrities. Our task is to do the sentimental analysis of the data which is effectively just a text classification problem.
 
 # About the dataset
-The dataset contains comments(texts) which are basically classified into three categories - positive, negative and neutral. The dataset consists of 3987 comments out of which roughly 50% comments are neutral, 35% are positive and 15% are negative. This is the [dataset](https://github.com/kushagra1198/CodeMix-Data-Sentiment-Analysis-/blob/master/HAN/IIITH_Codemixed.txt)
+The dataset contains comments(texts) which are basically classified into three categories - positive, negative and neutral. The dataset consists of 3987 comments out of which roughly 50% comments are neutral, 35% are positive and 15% are negative. This is the [dataset](https://github.com/kushagra1198/CodeMix-Data-Sentiment-Analysis-/blob/master/HAN/IIITH_Codemixed.txt).
 
 # My Models
 Broadly speaking this project focuses on two models

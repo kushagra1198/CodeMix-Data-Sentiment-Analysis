@@ -14,5 +14,8 @@ Intuition behind using these two models : The primary reason I use these models 
 # Train-Test
 I use a 80-20 random train test split.
 
+# Codes for Model
+[Character-based CNN LSTM model](https://github.com/kushagra1198/CodeMix-Data-Sentiment-Analysis-/blob/master/Character_CNN_LSTM.ipynb)
+
 # Model performance 
 Both the models are implemented and the hyperparamenters are tuned using [Bayesian Optimization](https://scikit-optimize.github.io/notebooks/bayesian-optimization.html) and the accuracies attained are 63% for Charecter-based CNN LSTM and 56% for Sub-Word HAN.

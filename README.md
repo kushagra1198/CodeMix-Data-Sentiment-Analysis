@@ -8,6 +8,7 @@ The dataset contains comments(texts) which are basically classified into three c
 Broadly speaking this project focuses on two models
 1) Character-based CNN LSTM model
 2) Sub-Word Hierarchical Attention Network
+
 Intuition behind using these two models : The primary reason I use these models is that the dataset contains a big vocabolary, this is due to the fact that in hindi-english mixed words same word may differ in spelling. As it does not have a defined spelling or rule and is used by a different indivisuals.
 
 # Train-Test

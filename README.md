@@ -4,7 +4,7 @@ In this project, implemention of sentimental analysis for Hindi-English(code-mix
 # About the dataset
 The dataset is created by Ameya Prabhu et al (IIITH), it contains comments(texts) which are basically classified into three categories - positive, negative and neutral. The dataset consists of 3987 comments out of which roughly 50% comments are neutral, 35% are positive and 15% are negative. This is the [dataset](https://github.com/kushagra1198/CodeMix-Data-Sentiment-Analysis-/blob/master/HAN/IIITH_Codemixed.txt).
 
-# My Models
+# Models
 Broadly speaking this project focuses on two models
 1) Character-based CNN LSTM model
 2) Sub-Word Hierarchical Attention Network

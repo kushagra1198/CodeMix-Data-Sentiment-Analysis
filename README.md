@@ -20,4 +20,4 @@ I use a 80-20 random train test split.
 [Sub-Word Hierarchical Attention Network](https://github.com/kushagra1198/CodeMix-Data-Sentiment-Analysis-/blob/master/HAN/Untitled7.ipynb)
 
 # Model performance 
-Both the models are implemented and the hyperparamenters are tuned using [Bayesian Optimization](https://scikit-optimize.github.io/notebooks/bayesian-optimization.html) and the accuracies attained are 63% for Charecter-based CNN LSTM and 56% for Sub-Word HAN.
+Both the models are implemented and the hyperparamenters are tuned using [Bayesian Optimization](https://scikit-optimize.github.io/notebooks/bayesian-optimization.html) and the accuracies attained are 63% for Charecter-based CNN LSTM and 57.94% for Sub-Word HAN.

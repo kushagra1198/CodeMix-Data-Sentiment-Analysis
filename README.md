@@ -10,9 +10,6 @@ We focuses on two models
 
 Intuition behind using these models : The primary reason is the huge vocabular, the lack of any defined rules results in hindi-english texts having multiple spellings for the same word  
 
-# Train-Test
-Used 80-20 random train test split.
-
 # Codes for Model
 [Character-based CNN LSTM](https://github.com/kushagra1198/CodeMix-Data-Sentiment-Analysis-/blob/master/Character_CNN_LSTM.ipynb)
 

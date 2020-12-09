@@ -8,7 +8,7 @@ We focuses on two models
 1) Character-based CNN LSTM model
 2) Sub-Word Hierarchical Attention Network
 
-Intuition behind using these models : The primary reason is the huge vocabular, due to the fact that in hindi-english mixed same word differ in spelling. Since it does not have a defined rule. 
+Intuition behind using these models : The primary reason is the huge vocabular, due to the fact that in hindi-english usage texts have different in spellings for the same word, due to lack of any defined rules. 
 
 # Train-Test
 Used 80-20 random train test split.

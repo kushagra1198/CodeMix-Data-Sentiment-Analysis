@@ -1,5 +1,5 @@
 # CodeMix Data Sentiment Analysis
-In this project, implemention of sentimental analysis for Hindi-English(code-mix) data is presented. The data is collected from public Facebook pages of popular celebrities in India. The dataset was created by Ameya Prabhu et. al (IIITH), it contains comments from Facebook users on the pages/posts of popular Indian celebrities. The task is to perform sentimental analysis of the data which is effectively just a text classification problem.
+In this project, implemention of sentimental analysis for Hindi-English(code-mix) data is presented. The data is collected from public pages on social media platform. The dataset was created by Ameya Prabhu et. al (IIITH), it contains comments from Facebook users on the pages/posts of popular Indian celebrities. The task is to perform sentimental analysis of the data which is effectively just a text classification problem.
 
 # About the dataset
 The dataset contains comments which are classified into three categories - positive, negative and neutral. Out of 3987 comments 50% are neutral, 35% are positive and 15% negative.
